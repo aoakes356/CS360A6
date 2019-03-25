@@ -28,6 +28,6 @@ debug: $(SRC) $(HDR)
 
 run:
 	make
-	./readable
+	./philo
 	
 
